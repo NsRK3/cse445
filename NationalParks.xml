@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NationalParks>
+
     <NationalPark Rating="4.9">
         <Name>Grand Canyon</Name>
         <Phone>928-638-7496</Phone>
@@ -18,9 +19,9 @@
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
         <Address NearestAirport="Yellowstone Airport">
-            <Number>1</Number>
-            <Street>Park Street</Street>
-            <City>Yellowstone</City>
+            <Number>P.O. Box 168</Number>
+            <Street>Yellowstone National Park</Street>
+            <City>Yellowstone National Park</City>
             <State>WY</State>
             <Zip>82190</Zip>
         </Address>
@@ -30,8 +31,8 @@
         <Name>Yosemite</Name>
         <Phone>209-372-0200</Phone>
         <Address NearestAirport="Fresno Yosemite International Airport">
-            <Number>1</Number>
-            <Street>Ahwahnee Drive</Street>
+            <Number>P.O. Box 577</Number>
+            <Street>Yosemite National Park</Street>
             <City>Yosemite</City>
             <State>CA</State>
             <Zip>95389</Zip>
@@ -54,8 +55,8 @@
         <Name>Bryce Canyon</Name>
         <Phone>435-834-5322</Phone>
         <Address NearestAirport="Cedar City Regional Airport">
-            <Number>1</Number>
-            <Street>Center Street</Street>
+            <Number>P.O. Box 640</Number>
+            <Street>Bryce Canyon National Park</Street>
             <City>Bryce</City>
             <State>UT</State>
             <Zip>84764</Zip>
@@ -66,8 +67,8 @@
         <Name>Joshua Tree</Name>
         <Phone>760-367-5500</Phone>
         <Address NearestAirport="Palm Springs International Airport">
-            <Number>1</Number>
-            <Street>Park Boulevard</Street>
+            <Number>74485</Number>
+            <Street>National Park Drive</Street>
             <City>Twentynine Palms</City>
             <State>CA</State>
             <Zip>92277</Zip>
@@ -78,8 +79,8 @@
         <Name>Death Valley</Name>
         <Phone>760-786-3200</Phone>
         <Address NearestAirport="Harry Reid International Airport">
-            <Number>1</Number>
-            <Street>Scottys Castle Road</Street>
+            <Number>P.O. Box 579</Number>
+            <Street>Death Valley National Park</Street>
             <City>Death Valley</City>
             <State>CA</State>
             <Zip>92328</Zip>
@@ -90,8 +91,8 @@
         <Name>Rocky Mountain</Name>
         <Phone>970-586-1206</Phone>
         <Address NearestAirport="Denver International Airport">
-            <Number>1</Number>
-            <Street>Bear Lake Road</Street>
+            <Number>1000</Number>
+            <Street>U.S. Highway 36</Street>
             <City>Estes Park</City>
             <State>CO</State>
             <Zip>80517</Zip>
@@ -102,7 +103,7 @@
         <Name>Sequoia</Name>
         <Phone>559-565-3341</Phone>
         <Address NearestAirport="Fresno Yosemite International Airport">
-            <Number>1</Number>
+            <Number>47050</Number>
             <Street>Generals Highway</Street>
             <City>Three Rivers</City>
             <State>CA</State>
@@ -114,8 +115,8 @@
         <Name>Glacier</Name>
         <Phone>406-888-7800</Phone>
         <Address NearestAirport="Glacier Park International Airport">
-            <Number>1</Number>
-            <Street>Going-to-the-Sun Road</Street>
+            <Number>P.O. Box 128</Number>
+            <Street>Glacier National Park</Street>
             <City>West Glacier</City>
             <State>MT</State>
             <Zip>59936</Zip>
@@ -124,13 +125,14 @@
 
     <NationalPark>
         <Name>Arches</Name>
-        <Phone>435-719-2299</Phone>
+        <Phone>435-719-2100</Phone>
         <Address NearestAirport="Canyonlands Field Airport">
-            <Number>1</Number>
-            <Street>Arches Entrance Road</Street>
+            <Number>2282</Number>
+            <Street>South Resource Boulevard</Street>
             <City>Moab</City>
             <State>UT</State>
             <Zip>84532</Zip>
         </Address>
     </NationalPark>
+
 </NationalParks>
