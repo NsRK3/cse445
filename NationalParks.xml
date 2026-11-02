@@ -18,6 +18,7 @@
     <NationalPark Rating="4.8">
         <Name>Yellowstone</Name>
         <Phone>307-344-7381</Phone>
+        <Phone>307-344-2386</Phone>
         <Address NearestAirport="Yellowstone Airport">
             <Number>P.O. Box 168</Number>
             <Street>Yellowstone National Park</Street>
@@ -30,6 +31,7 @@
     <NationalPark Rating="4.9">
         <Name>Yosemite</Name>
         <Phone>209-372-0200</Phone>
+        <Phone>209-372-0299</Phone>
         <Address NearestAirport="Fresno Yosemite International Airport">
             <Number>P.O. Box 577</Number>
             <Street>Yosemite National Park</Street>
@@ -39,9 +41,10 @@
         </Address>
     </NationalPark>
 
-    <NationalPark Rating="4.8">
+    <NationalPark>
         <Name>Zion</Name>
         <Phone>435-772-3256</Phone>
+        <Phone>435-772-0170</Phone>
         <Address NearestAirport="St George Regional Airport">
             <Number>1</Number>
             <Street>Zion Park Boulevard</Street>
@@ -51,7 +54,7 @@
         </Address>
     </NationalPark>
 
-    <NationalPark Rating="4.7">
+    <NationalPark>
         <Name>Bryce Canyon</Name>
         <Phone>435-834-5322</Phone>
         <Address NearestAirport="Cedar City Regional Airport">
