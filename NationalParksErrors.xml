@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<NationalPark>
+<NationalPark xmlns="https://raw.githubusercontent.com/NsRK3/cse445/main" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://raw.githubusercontent.com/NsRK3/cse445/main NationalParks.xsd">
 
     <!-- Error 1: Root element is NationalPark instead of NationalParks -->
 
