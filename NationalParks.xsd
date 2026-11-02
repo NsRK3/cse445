@@ -46,4 +46,15 @@
     <!-- Phone format: 3 digits - 3 digits - 4 digits, for example 928-638-7496 -->
     <xsd:simpleType name="PhoneType">
         <xsd:restriction base="xsd:string">
-   
+            <xsd:pattern value="\d{3}\-\d{3}\-\d{4}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <!-- Zip format: exactly 5 digits -->
+    <xsd:simpleType name="ZipType">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="\d{5}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+</xsd:schema>
